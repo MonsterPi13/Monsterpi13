@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tristan (or Peng, if you prefer)</h1>
 <h3 align="center">I'm a Full-stack web developer🧑‍💻 live in Nanjing, China. </h3>
+<img align="right" width="400" alt="coding" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I’m currently working on [ENN Group](https://www.enn-ng.com/en/)
 
