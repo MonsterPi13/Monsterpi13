@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan (or Peng, if you prefer)</h1>
-<h3 align="center">I'm a Full-stack web developer🧑‍💻 live in Nanjing, China. 
+<h3 align="center">I'm a Full-stack web developer🧑‍💻 live in Nanjing, China. </h3>
 
 - 🔭 I’m currently working on [ENN Group](https://www.enn-ng.com/en/)
 
