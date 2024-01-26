@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tristan (or Peng, if you prefer)</h1>
-<h3 align="center">I'm a Full-stack web developer🧑‍💻 live in Nanjing, China. </h3>
+<div align="center"> <img src="https://github.com/MonsterPi13/Monsterpi13/assets/43134418/6d3cb5f9-7bb7-4211-8f26-44f8475ddad3"> </div>
 <img align="right" width="400" alt="coding" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I’m currently working on [ENN Group](https://www.enn-ng.com/en/)
@@ -9,8 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://www.monsterpi13.dev/](https://www.monsterpi13.dev/)
 
 - 📝 I regularly write articles on [https://dev.to/monsterpi13](https://dev.to/monsterpi13)
-
-- 💬 Ask me about **react, vue, Next.js**
 
 - 📫 How to reach me **rpishappynow@gmail.com**
 
