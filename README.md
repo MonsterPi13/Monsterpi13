@@ -32,4 +32,5 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building My Developer Blog Site🎉✨🍾](https://dev.to/monsterpi13/building-my-developer-blog-site-2jee)
 <!-- BLOG-POST-LIST:END -->
