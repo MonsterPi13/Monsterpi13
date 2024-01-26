@@ -28,3 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterpi13&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="monsterpi13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterpi13&show_icons=true&theme=tokyonight&locale=en" alt="monsterpi13" /></p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
