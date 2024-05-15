@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://github.com/MonsterPi13/Monsterpi13/assets/43134418/6d3cb5f9-7bb7-4211-8f26-44f8475ddad3"> </div>
 <img align="right" width="400" alt="coding" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working on [ENN Group](https://www.enn-ng.com/en/)
+- 🔭 I’m currently a freelancer, feel free to contact me
 
 - 🌱 I’m currently learning **related product based on LLM development**
 
