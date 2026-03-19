@@ -17,7 +17,7 @@ Freelancer · Solo builder · Open to project-based collaboration
 TypeScript · React · Next.js · Node.js · LangChain · Mastra · PostgreSQL
 
 **📬 Get in Touch**
-[rpishappynow@gmail.com](mailto:rpishappynow@gmail.com) · [Upwork](https://www.upwork.com/freelancers/tristanr12) · [Twitter](https://twitter.com/monsterpi13) · [LinkedIn](https://linkedin.com/in/monsterpi13)
+[rpishappynow@gmail.com](mailto:rpishappynow@gmail.com) · [Upwork](https://www.upwork.com/freelancers/tristanr12) · [Twitter](https://x.com/MonsterPi133) · [LinkedIn](https://linkedin.com/in/monsterpi13)
 
 ---
 
