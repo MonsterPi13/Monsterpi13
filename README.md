@@ -1,5 +1,3 @@
-<img align="right" width="380" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
 ### Hi there, I'm MonsterPi13 👋
 
 I'm a **full-stack developer** and **freelancer** who's deep into **AI agent development**.
